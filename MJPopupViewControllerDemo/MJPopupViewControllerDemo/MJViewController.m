@@ -31,6 +31,7 @@
                       @"slide - right to left",
                       @"slide - left to right",
                       @"slide - bottom to bottom",
+                      @"slide - top to bottom",
                       nil];
         actions = [NSArray arrayWithObjects:
                    @"popup with user interaction",
